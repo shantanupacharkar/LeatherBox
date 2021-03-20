@@ -2,4 +2,4 @@
 
 Collection of web expirements
 
-[Basic portfolio website](../repo1/Home.html)
+[Basic portfolio website](/repo1/)
