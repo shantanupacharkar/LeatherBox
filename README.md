@@ -1,5 +1,5 @@
-# web-web-web
+# LeatherBox
 
-Collection of web expirements
+Collection of Premium leather prodcuts
 
 [Basic portfolio website](/repo1/)
