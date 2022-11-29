@@ -1,5 +1,5 @@
 # LeatherBox
 
-Collection of Premium leather prodcuts
+Collection of Premium leather products
 
 [Basic portfolio website](/repo1/)
